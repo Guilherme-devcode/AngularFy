@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { newArtista } from 'src/app/Common/Factorys';
+import { newArtista } from 'src/app/Common/factorys';
+
 import { IArtista } from 'src/app/Interfaces/IArtista';
 import { SpotifyService } from 'src/app/services/spotify.service';
 
