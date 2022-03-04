@@ -1,10 +1,13 @@
-@import 'table';
+
 @import 'variaveis';
+@import 'table';
 :host{
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
     ::-webkit-scrollbar{
         width: 7px;
+
         &-thumb{
             background-color: rgba($cor-primaria, .2);
             border-radius: 10px;
@@ -13,19 +16,17 @@
             background: transparent;
         }
     }
+    
 
-    .minhas-musicas{
+    .painel-direito{
+        height: 100vh;
+        max-height: 100vh;
+    }
+    .lista{
         padding: 0px 50px;
         padding-bottom: 20px;
         width: 100%;
         max-height: 100vh;
         overflow-y: scroll;
-    }
-    .painel-direito{
-        height: 100vh;
-
-    }
-    .d-block{
-        display: block;
     }
 }
