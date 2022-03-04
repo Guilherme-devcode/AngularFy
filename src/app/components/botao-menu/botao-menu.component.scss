@@ -25,11 +25,17 @@
             margin-left: 15px;
             overflow: hidden;
             text-overflow: ellipsis;
+            transition: 0.25s;
         }
 
         &.selecionado{
             background-color: $cor-primaria;
             color: $branco;
+        }
+        &:hover{
+            background-color: $cor-primaria;
+            color: $branco;
+            letter-spacing: 2px;
         }
     }
 }

@@ -9,7 +9,7 @@
         width: 7px;
 
         &-thumb{
-            background-color: rgba($cor-primaria, .2);
+            background-color: $cor-primaria;
             border-radius: 10px;
         }
         &-track{

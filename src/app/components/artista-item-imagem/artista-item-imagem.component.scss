@@ -9,9 +9,10 @@
     color: $preto-transparente-70;
     
     &:hover{
-        box-shadow: 0px 0px 15px $preto-transparente-30;
-        background-color: $branco;
+        box-shadow: 0px 0px 15px green;
+        background-color: #353030;
         color: $cor-primaria;
+        letter-spacing: 2px;
     }
 
     img{

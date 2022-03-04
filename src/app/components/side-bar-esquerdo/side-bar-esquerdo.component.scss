@@ -12,10 +12,53 @@ $h-desconsiderar: calc($h-spotify-logo + $h-footer-user + $h-menu-opcoes);
     overflow-y: hidden;
     display: flex;
     flex-direction: column;
-    background-color: $branco;
     box-shadow: 1px 1px 15px #00000012;
-
+    position: relative;
+    .bg-circles {
+        position: absolute;
+        top: 0;
+        height: 100%;
+        max-width: 1200px;
+        width: calc(100% - 30px);
+        left: 50%;
+        transform: translateX(-50%);
+      }
+      .bg-circles div {
+        position: relative;
+        border-radius: 50%;
+      }
+      .bg-circles .circle-1 {
+        height: 150px;
+        width: 150px;
+        background-color: $cor-primaria;
+        left: 50%;
+        top: 0%;
+        opacity: 0.3;
+        animation: bounceTop 5s linear infinite;
+      }
+      .bg-circles .circle-2 {
+        height: 150px;
+        width: 150px;
+        background-color: $cor-primaria;
+        left: -50px;
+        top: 20%;
+        opacity: 0.4;
+        animation: bounceTop 4s ease-in-out infinite;
+      }
+      @keyframes bounceTop{
+        0%,100%{
+          transform: translateY(-50px);
+        }
+        50%{
+          transform:translateY(0px)
+        }
+      }
+    
     .menus{
+        background: rgba(59, 65, 53, 0.3);
+        backdrop-filter: blur( 6.5px );
+        -webkit-backdrop-filter: blur( 10px );
+        border-radius: 10px;
         flex-grow: 1;
         flex-direction: column;
         height: 100%;
@@ -74,5 +117,9 @@ $h-desconsiderar: calc($h-spotify-logo + $h-footer-user + $h-menu-opcoes);
         align-self: flex-end;
         height: $h-footer-user;  
         width: 100%;
+        background: rgba(59, 65, 53, 0.3);
+        backdrop-filter: blur( 6.5px );
+        -webkit-backdrop-filter: blur( 6.5px );
+        border-radius: 10px;
     }
 }
