@@ -3,10 +3,12 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-    min-height: 100vh;
     max-height: 100vh;
     max-width: 300px;
     width: 300px;
     padding: 40px 20px 20px 20px;
-    background: $branco;
+
+    .player{
+        flex-grow: 1;
+    }
 }
