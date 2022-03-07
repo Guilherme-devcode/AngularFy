@@ -96,6 +96,7 @@
                 *{
                     transition: 0.25s;
                     cursor: pointer;
+                    outline: 0;
                 }
                 &:hover{
                     color: $cor-primaria;

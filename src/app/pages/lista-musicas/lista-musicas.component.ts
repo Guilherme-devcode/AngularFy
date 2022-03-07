@@ -61,7 +61,7 @@ export class ListaMusicasComponent implements OnInit {
   async obterDadosPagina(tipo: string, id: string){
     if(tipo === 'playlist')
       await this.obterDadosPlaylist(id);
-    else
+    else(tipo === 'artista')
       await this.obterDadosArtista(id);
   }
 
@@ -72,7 +72,9 @@ export class ListaMusicasComponent implements OnInit {
   }
 
   async obterDadosArtista(artistaId: string){
-
+    const artistaMusicas = await this.spotifyService.buscarMusicasArtistas(artistaId)
+    this.definirDadosPagina(artistaMusicas.nome, artistaMusicas.imagemUrl, artistaMusicas.musicas)
+    this.title = 'Musicas Artista:' + artistaMusicas.nome
   }
 
   definirDadosPagina(bannerTexto: string, bannerImage: string, musicas: IMusica[]){

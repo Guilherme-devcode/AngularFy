@@ -40,7 +40,6 @@ export class SideBarEsquerdoComponent implements OnInit {
 
   async buscarPlaylists(){
     this.playlists = await this.spotifyService.buscarPlaylistUsuario()
-
   }
 
 }
