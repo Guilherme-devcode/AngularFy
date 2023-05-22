@@ -40,4 +40,4 @@ As seguintes ferramentas e tecnologias foram utilizadas no desenvolvimento deste
 
 ### Autor
 
-> Criado por [Nome do Autor] 👉 [Perfil do LinkedIn](https://www.linkedin.com/in/linkedin-do-autor) • GitHub [Link para o GitHub do Autor](https://github.com/link-do-github-do-autor)
+> Criado por Guilherme Rocha 👉 [Perfil do LinkedIn](https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/) • GitHub [Guilherme-devcode](https://github.com/Guilherme-devcode)
