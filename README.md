@@ -1,27 +1,43 @@
-# Angularfy
+<p align="center">
+    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/cashawallpaper.PNG" />
+    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/dashboardCash.PNG" />
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+<h1 align="center">angularFy</h1>
 
-## Development server
+<p align="center">
+    <a href="#about">Sobre</a> • 
+    <a href="#features">Recursos</a> • 
+    <a href="#technologies">Tecnologias</a> • 
+    <a href="#author">Autor</a> 
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Sobre
 
-## Code scaffolding
+angularFy é um aplicativo Angular projetado para ajudar os usuários a explorarem e descobrirem músicas usando a API do Spotify. Com esta aplicação, os usuários podem pesquisar por artistas, álbuns e faixas, visualizar informações detalhadas sobre eles e reproduzir trechos de música diretamente no aplicativo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Recursos
 
-## Build
+- [x] Pesquisa de artistas, álbuns e faixas
+- [x] Visualização de informações detalhadas sobre artistas, álbuns e faixas
+- [x] Reprodução de trechos de música
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Tecnologias
 
-## Running unit tests
+As seguintes ferramentas e tecnologias foram utilizadas no desenvolvimento deste projeto:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<table>
+    <tr>
+        <td><a href="https://angular.io/">Angular</a></td>
+    </tr>
+    <tr>
+        <td>versão mais recente</td>
+    </tr>
+    <tr>
+        <td><a href="https://developer.spotify.com/documentation/web-api/">API do Spotify</a></td>
+    </tr>
+</table>
 
-## Running end-to-end tests
+### Autor
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> Criado por [Nome do Autor] 👉 [Perfil do LinkedIn](https://www.linkedin.com/in/linkedin-do-autor) • GitHub [Link para o GitHub do Autor](https://github.com/link-do-github-do-autor)
