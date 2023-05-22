@@ -1,4 +1,4 @@
-<p align="center" style="display: "flex;"">
+<p align="center">
     <img alt="Readme" title="angularFy Screenshot" src="/src/assets/images/167shots_so.png" />
     <img alt="Readme" title="angularFy Screenshot" src="/src/assets/images/412shots_so.png" />
 </p>
