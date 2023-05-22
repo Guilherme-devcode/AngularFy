@@ -1,6 +1,6 @@
 <p align="center">
-    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/cashawallpaper.PNG" />
-    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/dashboardCash.PNG" />
+    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/167shots_so.png" />
+    <img alt="Readme" title="angularFy Screenshot" src="/src/assets/images/167shots_so.png" />
 </p>
 
 <h1 align="center">AngularFy</h1>
