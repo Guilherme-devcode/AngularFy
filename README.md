@@ -18,9 +18,8 @@ AngularFy é um aplicativo Angular projetado para ajudar os usuários a explorar
 
 ### Recursos
 
-- [x] Pesquisa de artistas, álbuns e faixas
-- [x] Visualização de informações detalhadas sobre artistas, álbuns e faixas
-- [x] Reprodução de trechos de música
+- [x] Pesquisa de faixas
+- [x] Reprodução de músicas
 
 ### Tecnologias
 
