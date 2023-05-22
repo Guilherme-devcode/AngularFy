@@ -14,7 +14,7 @@
 
 ### Sobre
 
-angularFy é um aplicativo Angular projetado para ajudar os usuários a explorarem e descobrirem músicas usando a API do Spotify. Com esta aplicação, os usuários podem pesquisar por artistas, álbuns e faixas, visualizar informações detalhadas sobre eles e reproduzir trechos de música diretamente no aplicativo.
+AngularFy é um aplicativo Angular projetado para ajudar os usuários a explorarem e descobrirem músicas usando a API do Spotify. Com esta aplicação, os usuários podem pesquisar por artistas, álbuns e faixas, visualizar informações detalhadas sobre eles e reproduzir trechos de música diretamente no aplicativo.
 
 ### Recursos
 
