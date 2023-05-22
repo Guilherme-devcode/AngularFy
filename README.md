@@ -3,7 +3,7 @@
     <img alt="Readme" title="angularFy Screenshot" src="./assets/images/dashboardCash.PNG" />
 </p>
 
-<h1 align="center">angularFy</h1>
+<h1 align="center">AngularFy</h1>
 
 <p align="center">
     <a href="#about">Sobre</a> • 
