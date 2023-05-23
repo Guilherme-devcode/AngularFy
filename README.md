@@ -6,37 +6,37 @@
 <h1 align="center">AngularFy</h1>
 
 <p align="center">
-    <a href="#about">Sobre</a> • 
-    <a href="#features">Recursos</a> • 
-    <a href="#technologies">Tecnologias</a> • 
-    <a href="#author">Autor</a> 
+    <a href="#about">About</a> • 
+    <a href="#features">Features</a> • 
+    <a href="#technologies">Technologies</a> • 
+    <a href="#author">Author</a> 
 </p>
 
-### Sobre
+### About
 
-AngularFy é um aplicativo Angular projetado para ajudar os usuários a explorarem e descobrirem músicas usando a API do Spotify. Com esta aplicação, os usuários podem pesquisar por artistas, álbuns e faixas, visualizar informações detalhadas sobre eles e reproduzir trechos de música diretamente no aplicativo.
+AngularFy is an Angular application designed to help users explore and discover music using the Spotify API. With this application, users can search for artists, albums, and tracks, view detailed information about them, and play music previews directly within the app.
 
-### Recursos
+### Features
 
-- [x] Pesquisa de faixas
-- [x] Reprodução de músicas
+- [x] Track search
+- [x] Music playback
 
-### Tecnologias
+### Technologies
 
-As seguintes ferramentas e tecnologias foram utilizadas no desenvolvimento deste projeto:
+The following tools and technologies were used in the development of this project:
 
 <table>
     <tr>
         <td><a href="https://angular.io/">Angular</a></td>
     </tr>
     <tr>
-        <td>versão mais recente</td>
+        <td>Latest version</td>
     </tr>
     <tr>
-        <td><a href="https://developer.spotify.com/documentation/web-api/">API do Spotify</a></td>
+        <td><a href="https://developer.spotify.com/documentation/web-api/">Spotify API</a></td>
     </tr>
 </table>
 
-### Autor
+### Author
 
-> Criado por Guilherme Rocha 👉 [Perfil do LinkedIn](https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/) • GitHub [Guilherme-devcode](https://github.com/Guilherme-devcode)
+> Created by Guilherme Rocha 👉 [LinkedIn Profile](https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/) • GitHub [Guilherme-devcode](https://github.com/Guilherme-devcode)
